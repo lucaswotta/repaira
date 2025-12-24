@@ -15,7 +15,7 @@
 
 ## 📋 Sobre o Projeto
 
-Projeto desenvolvido para a disciplina de **Personalização e Integração Web** do curso de **Inteligência Artificial e Automação Digital** na **UNIFECAF + Rocketseat** 🚀.
+Projeto desenvolvido para a disciplina de **PPadrões Web para No Code e Low Code** do curso de **Inteligência Artificial e Automação Digital** na **UNIFECAF + Rocketseat** 🚀.
 
 O **Repaira** é uma Landing Page de alta conversão para assistência técnica delivery. O sistema resolve o problema de **confiança e conveniência** no reparo de eletrônicos, integrando um formulário de orçamento com validação avançada diretamente a uma planilha de gestão via API.
 
@@ -85,9 +85,9 @@ O projeto rodará em `http://localhost:5173`.
 
 ---
 
-## 🏗️ Arquitetura da Solução
+## 🏗️ Arquitetura
 
-```mermaid
+```
 graph TD
     A[👤 Cliente com Defeito] -->|Acessa Landing Page| B(📱 Interface Responsiva)
     B -->|Preenche Orçamento| C{⚙️ Validação TypeScript}
